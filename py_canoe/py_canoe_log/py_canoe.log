@@ -1,0 +1,104 @@
+2024-12-11 13:56:24,211 [CANOE_LOG] [INFO ] Dispatched Vector CANoe Application 15.1.1
+2024-12-11 13:56:24,217 [CANOE_LOG] [INFO ] CANoe cfg "Modified" parameter set to False to avoid error.
+2024-12-11 13:56:24,217 [CANOE_LOG] [INFO ] CANoe cfg "D:\GalaxyTest\GalaxyTest\Configuration.cfg" found.
+2024-12-11 13:56:27,503 [CANOE_LOG] [INFO ] loaded CANoe config "D:\GalaxyTest\GalaxyTest\Configuration.cfg"
+2024-12-11 13:56:27,684 [CANOE_LOG] [INFO ] waiting for measurement to start...
+2024-12-11 13:56:30,399 [CANOE_LOG] [INFO ] CANoe Measurement Started.
+2024-12-11 13:56:32,402 [CANOE_LOG] [INFO ] waiting for measurement to stop...
+2024-12-11 13:56:32,811 [CANOE_LOG] [INFO ] CANoe Measurement Stopped.
+2024-12-11 13:56:32,818 [CANOE_LOG] [INFO ] CANoe Application Closed.
+2024-12-11 13:57:47,108 [CANOE_LOG] [INFO ] Dispatched Vector CANoe Application 15.1.1
+2024-12-11 13:57:47,126 [CANOE_LOG] [INFO ] CANoe cfg "Modified" parameter set to False to avoid error.
+2024-12-11 13:57:47,127 [CANOE_LOG] [INFO ] CANoe cfg "D:\GalaxyTest\GalaxyTest\Configuration.cfg" found.
+2024-12-11 13:57:49,217 [CANOE_LOG] [INFO ] loaded CANoe config "D:\GalaxyTest\GalaxyTest\Configuration.cfg"
+2024-12-11 13:57:50,215 [CANOE_LOG] [INFO ] waiting for measurement to start...
+2024-12-11 13:57:52,327 [CANOE_LOG] [INFO ] CANoe Measurement Started.
+2024-12-11 13:57:53,329 [CANOE_LOG] [INFO ] test module "HardTest" found in "HardTest"
+2024-12-11 13:57:53,633 [CANOE_LOG] [INFO ] started executing test module. waiting for completion...
+2024-12-11 13:58:04,649 [CANOE_LOG] [INFO ] test module OnReportGenerated event. True # D:\GalaxyTest\GalaxyTest\TestReport&Log\2024_12_11_13_57_53\__HardTest_2024_12_11_13_57_53.xml # D:\GalaxyTest\GalaxyTest\TestReport&Log\2024_12_11_13_57_53\__HardTest_2024_12_11_13_57_53.html
+2024-12-11 13:58:04,659 [CANOE_LOG] [INFO ] completed executing test module. verdict = 2
+2024-12-11 13:58:04,678 [CANOE_LOG] [INFO ] test module "HardTest.HardTest" executed and verdict = Failed.
+2024-12-11 13:58:05,683 [CANOE_LOG] [INFO ] waiting for measurement to stop...
+2024-12-11 13:58:05,974 [CANOE_LOG] [INFO ] CANoe Measurement Stopped.
+2024-12-11 13:58:05,984 [CANOE_LOG] [INFO ] CANoe Application Closed.
+2024-12-11 13:59:10,520 [CANOE_LOG] [INFO ] Dispatched Vector CANoe Application 15.1.1
+2024-12-11 13:59:10,532 [CANOE_LOG] [INFO ] CANoe cfg "Modified" parameter set to False to avoid error.
+2024-12-11 13:59:10,533 [CANOE_LOG] [INFO ] CANoe cfg "D:\GalaxyTest\GalaxyTest\Configuration.cfg" found.
+2024-12-11 13:59:13,832 [CANOE_LOG] [INFO ] loaded CANoe config "D:\GalaxyTest\GalaxyTest\Configuration.cfg"
+2024-12-11 13:59:13,976 [CANOE_LOG] [INFO ] waiting for measurement to start...
+2024-12-11 13:59:16,087 [CANOE_LOG] [INFO ] CANoe Measurement Started.
+2024-12-11 13:59:17,090 [CANOE_LOG] [INFO ] test module "HardTest" found in "HardTest"
+2024-12-11 13:59:17,295 [CANOE_LOG] [INFO ] started executing test module. waiting for completion...
+2024-12-11 13:59:28,426 [CANOE_LOG] [INFO ] test module OnReportGenerated event. True # D:\GalaxyTest\GalaxyTest\TestReport&Log\2024_12_11_13_59_17\__HardTest_2024_12_11_13_59_17.xml # D:\GalaxyTest\GalaxyTest\TestReport&Log\2024_12_11_13_59_17\__HardTest_2024_12_11_13_59_17.html
+2024-12-11 13:59:28,427 [CANOE_LOG] [INFO ] completed executing test module. verdict = 2
+2024-12-11 13:59:28,446 [CANOE_LOG] [INFO ] test module "HardTest.HardTest" executed and verdict = Failed.
+2024-12-11 13:59:29,449 [CANOE_LOG] [INFO ] waiting for measurement to stop...
+2024-12-11 13:59:29,694 [CANOE_LOG] [INFO ] CANoe Measurement Stopped.
+2024-12-11 13:59:29,841 [CANOE_LOG] [INFO ] CANoe Application Closed.
+2024-12-11 14:00:02,979 [CANOE_LOG] [INFO ] Dispatched Vector CANoe Application 15.1.1
+2024-12-11 14:00:02,983 [CANOE_LOG] [INFO ] CANoe cfg "Modified" parameter set to False to avoid error.
+2024-12-11 14:00:02,983 [CANOE_LOG] [INFO ] CANoe cfg "D:\GalaxyTest\GalaxyTest\Configuration.cfg" found.
+2024-12-11 14:00:06,273 [CANOE_LOG] [INFO ] loaded CANoe config "D:\GalaxyTest\GalaxyTest\Configuration.cfg"
+2024-12-11 14:00:06,363 [CANOE_LOG] [INFO ] waiting for measurement to start...
+2024-12-11 14:00:08,374 [CANOE_LOG] [INFO ] CANoe Measurement Started.
+2024-12-11 14:00:09,377 [CANOE_LOG] [INFO ] test module "HardTest" found in "HardTest"
+2024-12-11 14:00:09,682 [CANOE_LOG] [INFO ] started executing test module. waiting for completion...
+2024-12-11 14:00:20,709 [CANOE_LOG] [INFO ] test module OnReportGenerated event. True # D:\GalaxyTest\GalaxyTest\TestReport&Log\2024_12_11_14_00_09\__HardTest_2024_12_11_14_00_09.xml # D:\GalaxyTest\GalaxyTest\TestReport&Log\2024_12_11_14_00_09\__HardTest_2024_12_11_14_00_09.html
+2024-12-11 14:00:20,710 [CANOE_LOG] [INFO ] completed executing test module. verdict = 2
+2024-12-11 14:00:20,713 [CANOE_LOG] [INFO ] test module "HardTest.HardTest" executed and verdict = Failed.
+2024-12-11 14:00:21,717 [CANOE_LOG] [INFO ] waiting for measurement to stop...
+2024-12-11 14:00:22,030 [CANOE_LOG] [INFO ] CANoe Measurement Stopped.
+2024-12-11 14:00:22,032 [CANOE_LOG] [INFO ] CANoe Application Closed.
+2024-12-11 14:03:40,937 [CANOE_LOG] [INFO ] Dispatched Vector CANoe Application 15.1.1
+2024-12-11 14:03:40,947 [CANOE_LOG] [INFO ] CANoe cfg "Modified" parameter set to False to avoid error.
+2024-12-11 14:03:40,948 [CANOE_LOG] [INFO ] CANoe cfg "D:\GalaxyTest\GalaxyTest\Configuration.cfg" found.
+2024-12-11 14:03:44,309 [CANOE_LOG] [INFO ] loaded CANoe config "D:\GalaxyTest\GalaxyTest\Configuration.cfg"
+2024-12-11 14:03:44,412 [CANOE_LOG] [INFO ] waiting for measurement to start...
+2024-12-11 14:03:46,524 [CANOE_LOG] [INFO ] CANoe Measurement Started.
+2024-12-11 14:03:47,526 [CANOE_LOG] [INFO ] test module "HardTest" found in "HardTest"
+2024-12-11 14:03:47,731 [CANOE_LOG] [INFO ] started executing test module. waiting for completion...
+2024-12-11 14:03:58,872 [CANOE_LOG] [INFO ] test module OnReportGenerated event. True # D:\GalaxyTest\GalaxyTest\TestReport&Log\2024_12_11_14_03_47\__HardTest_2024_12_11_14_03_47.xml # D:\GalaxyTest\GalaxyTest\TestReport&Log\2024_12_11_14_03_47\__HardTest_2024_12_11_14_03_47.html
+2024-12-11 14:03:58,874 [CANOE_LOG] [INFO ] completed executing test module. verdict = 2
+2024-12-11 14:03:58,894 [CANOE_LOG] [INFO ] test module "HardTest.HardTest" executed and verdict = Failed.
+2024-12-11 14:03:59,898 [CANOE_LOG] [INFO ] waiting for measurement to stop...
+2024-12-11 14:04:00,225 [CANOE_LOG] [INFO ] CANoe Measurement Stopped.
+2024-12-11 14:04:00,368 [CANOE_LOG] [INFO ] CANoe Application Closed.
+2024-12-11 14:04:37,589 [CANOE_LOG] [INFO ] Dispatched Vector CANoe Application 15.1.1
+2024-12-11 14:04:37,600 [CANOE_LOG] [INFO ] CANoe cfg "Modified" parameter set to False to avoid error.
+2024-12-11 14:04:37,601 [CANOE_LOG] [INFO ] CANoe cfg "D:\GalaxyTest\GalaxyTest\Configuration.cfg" found.
+2024-12-11 14:04:40,707 [CANOE_LOG] [INFO ] loaded CANoe config "D:\GalaxyTest\GalaxyTest\Configuration.cfg"
+2024-12-11 14:04:40,810 [CANOE_LOG] [INFO ] waiting for measurement to start...
+2024-12-11 14:04:42,921 [CANOE_LOG] [INFO ] CANoe Measurement Started.
+2024-12-11 14:04:43,925 [CANOE_LOG] [INFO ] test module "HardTest" found in "HardTest"
+2024-12-11 14:04:44,130 [CANOE_LOG] [INFO ] started executing test module. waiting for completion...
+2024-12-11 14:05:12,986 [CANOE_LOG] [INFO ] test module OnReportGenerated event. True # D:\GalaxyTest\GalaxyTest\TestReport&Log\2024_12_11_14_04_43\__HardTest_2024_12_11_14_04_43.xml # D:\GalaxyTest\GalaxyTest\TestReport&Log\2024_12_11_14_04_43\__HardTest_2024_12_11_14_04_43.html
+2024-12-11 14:05:12,987 [CANOE_LOG] [INFO ] completed executing test module. verdict = 2
+2024-12-11 14:05:12,988 [CANOE_LOG] [INFO ] test module "HardTest.HardTest" executed and verdict = Failed.
+2024-12-11 14:05:47,156 [CANOE_LOG] [INFO ] Dispatched Vector CANoe Application 15.1.1
+2024-12-11 14:05:47,174 [CANOE_LOG] [INFO ] CANoe cfg "Modified" parameter set to False to avoid error.
+2024-12-11 14:05:47,175 [CANOE_LOG] [INFO ] CANoe cfg "D:\GalaxyTest\GalaxyTest\Configuration.cfg" found.
+2024-12-11 14:05:50,587 [CANOE_LOG] [INFO ] loaded CANoe config "D:\GalaxyTest\GalaxyTest\Configuration.cfg"
+2024-12-11 14:05:50,685 [CANOE_LOG] [INFO ] waiting for measurement to start...
+2024-12-11 14:05:52,897 [CANOE_LOG] [INFO ] CANoe Measurement Started.
+2024-12-11 14:05:53,899 [CANOE_LOG] [INFO ] test module "HardTest" found in "HardTest"
+2024-12-11 14:05:54,106 [CANOE_LOG] [INFO ] started executing test module. waiting for completion...
+2024-12-11 14:06:05,307 [CANOE_LOG] [INFO ] test module OnReportGenerated event. True # D:\GalaxyTest\GalaxyTest\TestReport&Log\2024_12_11_14_05_53\__HardTest_2024_12_11_14_05_53.xml # D:\GalaxyTest\GalaxyTest\TestReport&Log\2024_12_11_14_05_53\__HardTest_2024_12_11_14_05_53.html
+2024-12-11 14:06:05,309 [CANOE_LOG] [INFO ] completed executing test module. verdict = 2
+2024-12-11 14:06:05,315 [CANOE_LOG] [INFO ] test module "HardTest.HardTest" executed and verdict = Failed.
+2024-12-11 14:06:06,319 [CANOE_LOG] [INFO ] waiting for measurement to stop...
+2024-12-11 14:06:06,737 [CANOE_LOG] [INFO ] CANoe Measurement Stopped.
+2024-12-11 14:06:06,741 [CANOE_LOG] [INFO ] CANoe Application Closed.
+2024-12-11 14:07:44,295 [CANOE_LOG] [INFO ] Dispatched Vector CANoe Application 15.1.1
+2024-12-11 14:07:44,306 [CANOE_LOG] [INFO ] CANoe cfg "Modified" parameter set to False to avoid error.
+2024-12-11 14:07:44,307 [CANOE_LOG] [INFO ] CANoe cfg "D:\GalaxyTest\GalaxyTest\Configuration.cfg" found.
+2024-12-11 14:07:47,574 [CANOE_LOG] [INFO ] loaded CANoe config "D:\GalaxyTest\GalaxyTest\Configuration.cfg"
+2024-12-11 14:07:47,673 [CANOE_LOG] [INFO ] waiting for measurement to start...
+2024-12-11 14:07:49,786 [CANOE_LOG] [INFO ] CANoe Measurement Started.
+2024-12-11 14:07:50,789 [CANOE_LOG] [INFO ] test module "HardTest" found in "HardTest"
+2024-12-11 14:07:50,992 [CANOE_LOG] [INFO ] started executing test module. waiting for completion...
+2024-12-11 14:08:02,187 [CANOE_LOG] [INFO ] test module OnReportGenerated event. True # D:\GalaxyTest\GalaxyTest\TestReport&Log\2024_12_11_14_07_50\__HardTest_2024_12_11_14_07_50.xml # D:\GalaxyTest\GalaxyTest\TestReport&Log\2024_12_11_14_07_50\__HardTest_2024_12_11_14_07_50.html
+2024-12-11 14:08:02,188 [CANOE_LOG] [INFO ] completed executing test module. verdict = 2
+2024-12-11 14:08:02,191 [CANOE_LOG] [INFO ] test module "HardTest.HardTest" executed and verdict = Failed.
+2024-12-11 14:08:03,195 [CANOE_LOG] [INFO ] waiting for measurement to stop...
+2024-12-11 14:08:03,610 [CANOE_LOG] [INFO ] CANoe Measurement Stopped.
+2024-12-11 14:08:03,612 [CANOE_LOG] [INFO ] CANoe Application Closed.
